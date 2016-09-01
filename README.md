@@ -32,14 +32,16 @@ initial clone. 'master' is the default branch. Previous release
 may require a different set of usage instructions, please refer
 to the relative README.
 
-    git clone <thisrepo> -b <branch>
+    git clone <thisrepo> -b gdp-11-rc1
 
 To initiate the build environment:
 
     source init.sh $target
 
-The current supported targets are qemux86-64, porter, raspberrypi2, minnowboard, silk.
-Currently this requires the use of the bash shell
+Currently this requires the use of the bash shell.
+
+The current supported targets are qemux86-64, raspberrypi2, raspberrypi3, minnowboard.
+
 
 The `init.sh` script handles the the `$target` specific bitbake configuration.
 The `$target` templates can be found in gdp-src-build/templates, as well as common
