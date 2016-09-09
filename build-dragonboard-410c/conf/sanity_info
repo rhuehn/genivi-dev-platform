@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/rob/source/gdp/genivi-dev-platform/build-dragonboard-410c/tmp
+SSTATE_DIR /home/rob/source/gdp/genivi-dev-platform/build-dragonboard-410c/sstate-cache
+NATIVELSBSTRING Ubuntu-15.10

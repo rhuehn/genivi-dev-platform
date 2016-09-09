@@ -1,0 +1,7 @@
+bitbake.lock
+buildhistory
+cache
+sstate-cache
+tmp
+_*
+
