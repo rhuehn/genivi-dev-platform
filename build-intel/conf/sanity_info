@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/rob/source/gdp/genivi-dev-platform/build-intel/tmp
+SSTATE_DIR /home/rob/source/gdp/genivi-dev-platform/build-intel/sstate-cache
+NATIVELSBSTRING Ubuntu-16.04
