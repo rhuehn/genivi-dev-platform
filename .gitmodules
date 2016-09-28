@@ -41,3 +41,6 @@
 [submodule "meta-browser"]
 	path = meta-browser
 	url = git@github.com:rhuehn/meta-browser.git
+[submodule "meta-nodejs"]
+	path = meta-nodejs
+	url = https://github.com/rhuehn/meta-nodejs.git
